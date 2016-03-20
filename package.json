@@ -1,0 +1,36 @@
+{
+  "name": "holdem-simulator",
+  "version": "0.0.1",
+  "description": "Using Monte Carlo simulation to approximate the probability distribution for the outcome of a Texas hold'em game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eivindfjeldstad/poker-simulator.git"
+  },
+  "keywords": [
+    "poker",
+    "texas",
+    "holdem",
+    "monte",
+    "carlo",
+    "simulation",
+    "probability",
+    "hand"
+  ],
+  "author": "Eivind Fjeldstad <eivind.fjeldstad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eivindfjeldstad/poker-simulator/issues"
+  },
+  "homepage": "https://github.com/eivindfjeldstad/poker-simulator#readme",
+  "dependencies": {
+    "array-shuffle": "^1.0.0",
+    "poker-evaluator": "^0.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
