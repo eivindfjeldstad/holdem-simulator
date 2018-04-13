@@ -1,4 +1,6 @@
 # holdem-simulator
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/eivindfjeldstad/holdem-simulator.svg)](https://greenkeeper.io/)
 Using Monte Carlo simulation to approximate the probability distribution for the outcome of a Texas hold'em game.
 
 [![npm version](http://img.shields.io/npm/v/holdem-simulator.svg?style=flat)](https://npmjs.org/package/holdem-simulator)
